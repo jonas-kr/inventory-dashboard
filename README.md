@@ -6,7 +6,7 @@ A modern, responsive inventory management dashboard designed for business effici
 
 This project is a sophisticated dashboard for managing inventory and tracking business performance. It features a clean UI with a focus on data clarity and user experience.
 
-![Dashboard Preview](client/homePage.png)
+![Dashboard Preview](/homePage.png)
 
 ## 🚀 Key Features
 
